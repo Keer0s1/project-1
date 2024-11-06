@@ -1,0 +1,17 @@
+.contact{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+    text-align: left;
+    padding: 24px 0 0;
+}
+.contact-text{
+    font-weight: 81px;
+    width: 570px;
+    text-align: left;
+}
+.text{
+    font-weight: 81px;
+    width: 570px;
+    text-align: left; 
+}

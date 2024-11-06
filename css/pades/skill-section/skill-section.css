@@ -1,0 +1,42 @@
+.skills{
+    padding: 42px 24px 42px 24px;
+    gap: 42px;
+}
+
+.skills__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 42px;
+    text-align: center;
+    font-family: "epilogue-semibold";
+}
+
+p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+    font-family: "epilogue-regular";
+}
+
+.skills__design{
+    padding: 64px 42px 64px 42px;
+    gap: 12px;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skills__img{
+    margin-bottom: 24px;
+    width: 124px;
+    height: auto;
+}
